@@ -31,10 +31,10 @@
 						<span class="caret"></span>
 					</a>
 					<ul class="dropdown-menu">
-						<li class="active">
+						<li>
 							<a href="login.jsp">로그인</a>
 						</li>
-						<li>
+						<li class="active">
 							<a href="join.jsp">회원가입</a>
 						</li>
 					</ul>

@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JSP 게시판 웹사이트</title>
+<title>Insert title here</title>
 </head>
 <body>
+	<%
+	session.invalidate();
+	%>
 <script>
 	location.href = 'main.jsp';
 </script>
